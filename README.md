@@ -44,7 +44,7 @@ To work with this project, you'll need the following software and versions:
 - JavaScript (ES6)
 
 - ## Website Link
-- https://zrejka9ujfkqontfyhocqq.on.drv.tw/profile/
+- https://durga58.github.io/MyProfileWebsite/
 
 ## License
 
